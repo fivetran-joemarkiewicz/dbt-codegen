@@ -13,12 +13,15 @@ Macros that generate dbt code, and log it to the command line.
   - [generate_base_model (source)](#generate_base_model-source)
     - [Arguments:](#arguments-1)
     - [Usage:](#usage-1)
+  - [create_base_models (source)](#/helpers/generate_base_model-source)
+    - [Arguments:](#arguments-1)
+    - [Usage:](#usage-1)
   - [generate_model_yaml (source)](#generate_model_yaml-source)
-    - [Arguments:](#arguments-2)
-    - [Usage:](#usage-2)
-  - [generate_model_import_ctes (source)](#generate_model_import_ctes-source)
     - [Arguments:](#arguments-3)
     - [Usage:](#usage-3)
+  - [generate_model_import_ctes (source)](#generate_model_import_ctes-source)
+    - [Arguments:](#arguments-4)
+    - [Usage:](#usage-4)
 
 # Installation instructions
 New to dbt packages? Read more about them [here](https://docs.getdbt.com/docs/building-a-dbt-project/package-management/).
